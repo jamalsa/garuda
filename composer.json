@@ -1,0 +1,12 @@
+{
+    "name": "jamal/garuda",
+    "require": {
+        "fabpot/goutte": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "Jamal Saepul Aziz",
+            "email": "jamal.s.aziz@gmail.com"
+        }
+    ]
+}
